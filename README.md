@@ -44,11 +44,11 @@ I’m especially interested in AI, DX, web, and protocol-level systems.
 
 ## Writing
 
-✍️ **[Reburn Report](https://reburnreport.news.blog)**
+✍️ **[Reburn Report](https://reburnreport.news.blog/?utm_source=github&utm_medium=profile&utm_campaign=github_readme)**
 
-- **[Designing “Ask the Book”: How I’d build Amazon Kindle’s AI feature](https://reburnreport.news.blog/2026/01/14/designing-ask-the-book-how-id-build-amazon-kindles-ai-feature/)** – A systems-first look at what a robust, context-aware AI feature for Kindle should be and why it matters.
-- **[OpenClaw got social and started a religion](https://reburnreport.news.blog/2026/01/30/openclaw-got-social-and-started-a-religion/)** – Reflections on the emergent behaviors and cultural side effects of autonomous AI agents interacting at scale.
-- **[AI: The modern cotton gin for software development](https://reburnreport.news.blog/2025/10/01/ai-the-modern-cotton-gin-for-software-development/)** – How AI automation fundamentally reshapes how developers build software.
+- **[Designing “Ask the Book”: How I’d build Amazon Kindle’s AI feature](https://reburnreport.news.blog/2026/01/14/designing-ask-the-book-how-id-build-amazon-kindles-ai-feature/?utm_source=github&utm_medium=profile&utm_campaign=github_readme)** – A systems-first look at what a robust, context-aware AI feature for Kindle should be and why it matters.
+- **[OpenClaw got social and started a religion](https://reburnreport.news.blog/2026/01/30/openclaw-got-social-and-started-a-religion/?utm_source=github&utm_medium=profile&utm_campaign=github_readme)** – Reflections on the emergent behaviors and cultural side effects of autonomous AI agents interacting at scale.
+- **[AI: The modern cotton gin for software development](https://reburnreport.news.blog/2025/10/01/ai-the-modern-cotton-gin-for-software-development/?utm_source=github&utm_medium=profile&utm_campaign=github_readme)** – How AI automation fundamentally reshapes how developers build software.
 
 ---
 
