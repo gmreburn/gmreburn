@@ -19,7 +19,7 @@
 
 ## Projects
 
-Most of my work is closed source, but I’m interested in contributing to **high-impact open-source projects** where systems design, reliability, and long-term maintainability matter.
+Most of my work is closed source, but everything listed below is open source. I’m especially interested in contributing to **high-impact open-source projects** where systems design, reliability, and long-term maintainability matter.
 
 - 🔥 **[Fireside Chats](https://addons.mozilla.org/en-US/firefox/addon/fireside-chats/)** - Firefox add-on enabling real-time, page-scoped public conversations using the Nostr decentralized messaging protocol.
 - 🧭 **[UAInfo](https://uainfo.vercel.app/)** [(repo)](https://github.com/gmreburn/uainfo) - Web tool for inspecting browser user agent and client capabilities.
